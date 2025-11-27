@@ -72,11 +72,16 @@ I specialize in **Blockchain Development** (EVM & Solana), taking on complex cha
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanmarkz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmarkz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alanmarkz&theme=dark&hide_border=false&show_icons=true" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmarkz&theme=dark&hide_border=false&layout=compact" height="150" alt="languages graph" />
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=alanmarkz&theme=dark&hide_border=false" alt="streak graph" />
 </div>
