@@ -72,8 +72,6 @@ I specialize in **Blockchain Development** (EVM & Solana), taking on complex cha
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanmarkz&theme=dark&hide_border=false&show_icons=true" height="150" alt="stats graph" />
 
