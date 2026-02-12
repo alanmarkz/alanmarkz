@@ -24,10 +24,7 @@
 
 ### 💫 About Me
 
-I build **full-stack products** across a range of spaces: **SaaS platforms, desktop apps, retail tools, Web3 ecosystems, and AI-powered experiences**.
-
-I specialize in **Blockchain Development** (EVM & Solana), taking on complex challenges to build clean, intuitive decentralized applications.
-
+Full Stack Software Engineer building scalable SaaS, ERP, CRM, and real-time applications. Experienced in backend architecture, interactive frontend systems, and high-volume transactional platforms handling 300k+ monthly operations. Passionate about performance optimization, scalable systems, and end-to-end product engineering.
 ---
 
 ### 💻 Tech Stack
