@@ -24,7 +24,7 @@
 
 ### 💫 About Me
 
-Full Stack Software Engineer building scalable SaaS, ERP, CRM, and real-time applications. Experienced in backend architecture, interactive frontend systems, and high-volume transactional platforms used across multi-branch business operations. Passionate about performance optimization, scalable systems, and end-to-end product engineering.
+Full Stack Software Engineer building scalable SaaS, ERP, CRM, real-time, and decentralized applications. Experienced in backend architecture, interactive frontend systems, and smart contract development across EVM and Solana ecosystems. Passionate about performance optimization, scalable systems, and end-to-end product engineering.
 ---
 
 ### 💻 Tech Stack
